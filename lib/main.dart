@@ -38,7 +38,7 @@ class TarjetaPerfil extends StatelessWidget{
           height: 600,
           padding: const EdgeInsets.all(16.0),
           decoration: BoxDecoration(
-            color: Colors.pink.shade100,
+            color: Color.fromARGB(255, 245, 218, 218),
             borderRadius: BorderRadius.circular(15),
             boxShadow: [
               BoxShadow(
